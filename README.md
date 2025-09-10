@@ -1,5 +1,9 @@
 # MCDA_5510
 ## Software Development in Business Analytics
+
+A-Number: A0049475
+Preferred email: bhavik.kantilal.bhagat@smu.ca
+Alternate email: bhavik.knight@gmail.com
 ---
 
 I am Bhavik Bhagat, 1st year graduate student at SMU in the Computing and Data Analytics program.
