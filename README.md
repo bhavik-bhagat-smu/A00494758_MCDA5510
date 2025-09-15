@@ -21,6 +21,3 @@ ML - NLP and Computer Vision
 - Once my code was reviewed online by Harvard's Computer Science department professor Dr. David J. Malan, on a twitch live stream; where I got some constructive criticism and feedback on how to improve. The video is available on YouTube.
 - I also have a [YouTube Channel](https://youtube.com/@bhavik.knight). The current video playlist I uploaded has one common comment (poor audio), so I am planning to re-do those with better audio. Moreover, I am keen to make new video series to help the future student of this program with technical help regarding some common software installations that they might need for various courses.
 ---
-
-
-
